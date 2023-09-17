@@ -1,0 +1,199 @@
+/*GENERAL*/
+* {
+    margin: 0;
+    font-family: 'Sans-serif', Verdana, monospace;
+
+}
+/*==========ETIQUETAS HEADER==========*/
+header {
+    background-color: #10002b;
+    width: 100vw;
+    padding-top: 3vh;
+    padding-bottom: 3vh;   
+}
+header img{
+    float: left;
+    padding-left: 2vw;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+/*==========ETIQUETAS NAV==========*/
+nav {
+    background-color: #240046;
+    color: #fff;
+    width: 100vw;
+    height: 10vh;
+    float: left;
+    font-family: 'Sans-serif', Verdana, monospace;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #240046;
+}
+nav li {
+    float: left;
+}
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 20px;
+    margin: 0;
+    text-decoration: none;
+    font-family: 'Sans-serif', Verdana, monospace;
+}
+nav li a:hover {
+    background-color: #5a189a;
+    color: yellow;
+}
+nav p {
+    font-family: 'Sans-serif', Verdana, monospace;
+    color: yellow;
+}
+/*==========ETIQUETAS MAIN==========*/
+main {
+    background-color: #3c096c;
+    color: #fff;
+    width: 100vw;
+    float: left;
+}
+body h2{
+    padding-top: 10px;
+    font-family: 'Sans-serif', Verdana, monospace;
+}
+/*==========ETIQUETAS FOOTER==========*/
+footer {
+    background-color: #5a189a;
+    color: #fff;
+    width: 100vw;
+    height: 10vh;
+    float: left;
+    font-size: 10px;
+    text-align: center;
+    padding-top: 30px;
+}
+/*==========CLASES==========*/
+.titulo {
+    font-family: 'Sans-serif', Verdana, monospace;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+}
+.intro{
+    padding: 40px 10vw 60px 10vw;
+    font-family: 'Sans-serif', Verdana, monospace;
+}
+.cabecera{
+    display: flex;
+    justify-content: center;
+}
+.cabeceraimg{
+    width: 80vw;
+}
+/*==========CLASES ALEX==========*/
+.enlaces{
+    height: 70vh;
+}
+.enlaces h2{
+    font-family: 'Sans-serif', Verdana, monospace;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+}
+.enlaces a{
+    color: white;
+    text-align: center;
+}
+.enlaces ul{
+    float: left;
+    padding-left: 550px;
+    padding-top: 30px;
+}
+.enlaces ul li{
+    padding-top: 10px;
+}
+.enlaces a:hover{
+    color: yellow;
+}
+.fotos_galeria table{
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.fotos_galeria img{
+    width: 200px;
+    height: 150px;
+}
+
+.fotos_galeria h2{
+    font-family: 'Sans-serif', Verdana, monospace;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+}
+.columna {
+    float: left;
+    width: 25%;
+    padding-right: 15px;
+    padding-left: 15px;
+       }
+       
+.fila::after {
+    content: "";
+    display: table;
+   }
+
+.columna img{
+    width: 500px;
+    height: 150px;
+   }
+
+.fila h1{
+    text-align: center;
+    padding-top: 10px;
+}
+.articulos{
+    background-color: #3c096c;
+    padding: 5px;
+    margin: 0;
+}
+.articulos > h1, .articulo {
+    margin: 10px;
+    padding: 5px;
+  }
+
+.articulo > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+.articulo{
+    background-color: #240046;
+}
+.articulo img{
+    width: 260px;
+    height: 200px;
+    padding-left: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.articulo h2{
+    text-align: center;
+}
+.articulo p{
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+

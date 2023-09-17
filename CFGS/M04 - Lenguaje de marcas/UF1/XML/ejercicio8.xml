@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horario>
+    <setmana dia="Lunes">
+        <fol>08:00 - 09:00 FOL</fol>
+        <fol>09:00 - 10:00 FOL</fol>
+        <m2>10:00 - 11:00 M2</m2>
+        <pati>PATIO</pati>
+        <m2>11:30 - 12:30 M2</m2>
+        <m3>12:30 - 13:30 M2</m3>
+    </setmana>
+
+    <setmana dia="Martes">
+        <m3>08:00 - 09:00 M3</m3>
+        <m3>09:00 - 10:00 M3</m3>
+        <tut>10:00 - 11:00 TUTORIA</tut>
+        <m2>11:30 - 12:30 M2</m2>
+        <m1>12:30 - 13:30 M1</m1>
+        <m1>13:30 - 14:30 M1</m1>
+    </setmana>
+
+    <setmana dia="Miercoles">
+        <m1>08:00 - 09:00 M1</m1>
+        <m2>09:00 - 10:00 M2</m2>
+        <m2>10:00 - 11:00 M2</m2>
+        <eie>11:30 - 12:30 EIE</eie>
+        <eie>12:30 - 13:30 EIE</eie>
+    </setmana>
+
+    <setmana dia="Jueves">
+        <m1>08:00 - 09:00 M1</m1>
+        <m1>09:00 - 10:00 M1</m1>
+        <m3>10:00 - 11:00 M3</m3>
+        <m3>11:30 - 12:30 M3</m3>
+        <m4>12:30 - 13:30 M4</m4>
+        <m4>13:30 - 14:30 M4</m4>
+    </setmana>
+
+    <setmana dia="Viernes">
+        <m4>08:00 - 09:00 M4</m4>
+        <m4>09:00 - 10:00 M4</m4>
+    </setmana>
+</horario>
+
+<horari>
+    <dia name="dilluns">
+        <franja hora="10:00 - 11:00" materia="BBDD" profesor="Alicia"/>
+        <franja hora="11:00 - 11:30" materia="PATIO" profesor="Nadie"/>
+        <franja hora="11:30 - 12:30" materia="BBDD" profesor="Alicia"/>
+        <franja hora="12:30 - 13:30" materia="PROGRAMACIÓ" profesor="Roberto"/>
+        <franja hora="13:30 - 14:30" materia="PROGRAMACIÓ" profesor="Roberto"/>
+    </dia>
+    <dia name="dimarts">
+        <franja hora="08:00 - 09:00" materia="PROGRAMACIÓ" profesor="Roberto"/>
+        <franja hora="09:00 - 10:00" materia="PROGRAMACIÓ" profesor="Roberto"/>
+        <franja hora="10:00 - 11:00" materia="TUTORIA" profesor="Roberto"/>
+        <franja hora="11:00 - 11:30" materia="PATIO" profesor="Nadie"/>
+        <franja hora="11:30 - 12:30" materia="BBDD" profesor="Alicia"/>
+        <franja hora="12:30 - 13:30" materia="SISTEMES INFORMÀTICS" profesor="Xavier"/>
+        <franja hora="13:30 - 14:30" materia="SISTEMES INFORMÀTICS" profesor="Xavier"/>
+    </dia>
+    <dia name="dimecres">
+        <franja hora="08:00 - 09:00" materia="SISTEMES INFORMÀTICS" profesor="Xavier"/>
+        <franja hora="9:00 - 10:00" materia="BBDD" profesor="Alicia"/>
+        <franja hora="10:00 - 11:00" materia="BBDD" profesor="Alicia"/>
+        <franja hora="11:00 - 11:30" materia="PATIO" profesor="Nadie"/>
+    </dia>
+    <dia name="dijous">
+        <franja hora="08:00 - 09:00" materia="SISTEMES INFORMÀTICS" profesor ="Xavier"/>
+        <franja hora="09:00 - 10:00" materia="SISTEMES INFORMÀTICS" profesor ="Xavier"/>
+        <franja hora="10:00 - 11:00" materia="PROGRAMACIÓ" profesor ="Roberto"/>
+        <franja hora="11:00 - 11:30" materia="PATIO" profesor ="Nadie"/>
+        <franja hora="11:30 - 12:30" materia="PROGRAMACIÓ" profesor ="Roberto"/>
+        <franja hora="12:30 - 13:30" materia="LENGUAJES DE MARCAS" profesor ="Toni"/>
+        <franja hora="13:30 - 14:30" materia="LENGUAJES DE MARCAS" profesor ="Toni"/>
+    </dia>
+    <dia name="divendres">
+        <franja hora="10:00 - 11:00" materia="LENGUAJES DE MARCAS" profesor ="Toni"/>
+        <franja hora="11:00 - 11:30" materia="PATIO" profesor ="Nadie"/>
+        <franja hora="11:30 - 12:30" materia="LENGUAJES DE MARCAS" profesor ="Toni"/>
+
+</horari>

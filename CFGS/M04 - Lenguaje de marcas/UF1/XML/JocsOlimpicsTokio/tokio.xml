@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jjoo edicio="2020">
+  <pais_juegos>Japan</pais_juegos>
+  <web>https://olympics.com/tokyo-2020/es/</web>
+  <participantes total="11420">
+    <pais nombre="Spain">
+        <atletas>Fatima Galvez</atletas>
+        <atletas>Sandra Sanchez Jaime</atletas>
+        <atletas>Pedri González</atletas>
+    </pais>
+    <pais nombre="Argentina">
+        <atletas>Maria Granatto</atletas>
+        <atletas>Rodrigo Etchart</atletas>
+        <atletas>Julieta Jankunas</atletas>
+        <atletas>Eugenia Trinchinetti</atletas>
+    </pais>
+    <pais nombre="Japón">
+        <atletas>Daiki Hashimoto</atletas>
+        <atletas>Uta Abe</atletas>
+        <atletas>Hifumi Abe</atletas>
+        <atletas>Takanori Nagase</atletas>
+    </pais>
+  </participantes>
+  <fecha_apertura fecha="23/07/2021"></fecha_apertura>
+  <fecha_clausura fecha="08/08/2021"></fecha_clausura>
+  <sedes tipo="eventos">
+    <sede nombre="ceremonia-apertura">
+      <ciudad_ubicacion>Tokio</ciudad_ubicacion>
+      <edificio>Estadio Olímpico de Tokio</edificio>
+      <funcionalidad>Inagurar los juegos olimpicos</funcionalidad>
+    </sede>
+    <sede nombre="ceremonia-cierre">
+      <ciudad_ubicacion>Tokio</ciudad_ubicacion>
+      <edificio>Estadio Olímpico de Tokio</edificio>
+      <funcionalidad>Concluir los juegos olimpicos</funcionalidad>
+    </sede>
+    <sede nombre="sede-coi">
+      <ciudad_ubicacion>Lausana</ciudad_ubicacion>
+      <edificio>Estadio Olímpico de Tokio</edificio>
+      <funcionalidad>Inagurar los juegos olimpicos</funcionalidad>
+    </sede>
+    <sede nombre="Villa Olimpica">
+      <ciudad_ubicacion>Tokio</ciudad_ubicacion>
+      <edificio>Villa Olímpica Chuo Ward</edificio>
+      <funcionalidad>Villa donde residen los atletas y personal durante los juegos</funcionalidad>
+    </sede>
+    <sede nombre="Centro de medios">
+      <ciudad_ubicacion>Tokio</ciudad_ubicacion>
+      <edificio>Tokio Big Sight</edificio>
+      <funcionalidad>Desarrollar, administrar y operar los sistemas de comunicación
+        audiovisuales</funcionalidad>
+    </sede>
+    <sede nombre="Centro de prensa">
+      <ciudad_ubicacion>Tokio</ciudad_ubicacion>
+      <edificio>Tokio Big Sight</edificio>
+      <funcionalidad>Recepcionar a los periodistas con todas las comodidades</funcionalidad>
+    </sede>
+  </sedes>
+  <sedes tipo="Competicion">
+    <sede nombre="Súper Arena de Saitama">
+      <ciudad_ubicacion>Saitama, Gran Tokio</ciudad_ubicacion>
+      <capacitat>37.000</capacitat>
+      <esport nom="Basket"></esport>
+      <primer_cop_jjoo>1904</primer_cop_jjoo>
+      <data_inici_competicions>25/07/2021</data_inici_competicions>
+      <data_final_competicions>08/08/2021</data_final_competicions>
+      <categoria_basket tipo="3x3">
+        <sexo tipo="Masculino">
+          <medalla tipo="oro">
+              <pais_ganador>Letonia</pais_ganador>
+              <atletas>Agnis Čavars</atletas>
+              <atletas>Kārlis Lasmanis</atletas>
+              <atletas>Nauris Miezis</atletas>          
+              <hora_competicion>14:15h</hora_competicion>
+              <lugar_competicion>Pista</lugar_competicion>
+          </medalla>
+        </sexo>
+        <sexo tipo="Femenino">
+            <medall tipo="oro">
+                <pais_ganador>Estados Unidos</pais_ganador>
+                <atletas>Stefanie Dolson</atletas>
+                <atletas>Allisha Gray</atletas>
+                <atletas>Kelsey Plum</atletas>
+                <atletas>Katie Lou Samuelson</atletas>
+                <hora_competicion>14:55h</hora_competicion>
+                <lugar_competicion>Pista</lugar_competicion>
+            </medalla>        
+        </sexo>
+      </categoria_basket>
+      <categoria_basket tipo="5x5">
+        <sexo tipo="Masculino">
+          <medalla tipo="oro">
+             <pais_ganador>Estados Unidos</pais_ganador>
+             <atletas>Damian Lillard</atletas>
+             <atletas>Jrue Holiday</atletas>
+             <atletas>Devin Booker</atletas>
+             <atletas>Zach LaVine</atletas>
+             <atletas>Keldon Johnson</atletas>
+             <atletas>Jayson Tatum</atletas>
+             <atletas>Khris Middleton</atletas>
+             <atletas>Kevin Durant</atletas>
+             <atletas>Jerami Grant</atletas>
+             <atletas>Draymond Green</atletas>
+             <atletas>Bam Adebayo</atletas>
+             <atletas>JaVale McGee</atletas>
+             <hora_competicion></hora_competicion>
+             <lugar_competicion>Pista</lugar_competicion>
+         </medalla>
+        </sexo>
+        <sexo tipo="Femenino">
+          <medalla tipo="oro">
+            <pais_ganador>Estados Unidos</pais_ganador>
+            <atletas>B. Stewart</atletas>
+            <atletas>S. Bird</atletas>
+            <atletas>A. Wilson</atletas>
+            <atletas>B. Griner</atletas>
+            <atletas>C. Gray</atletas>
+            <atletas>D. Taurasi</atletas>
+            <atletas>J. Loyd</atletas>
+            <atletas>T. Charles</atletas>
+            <atletas>S. Fowles</atletas>
+            <atletas>A. Atkins</atletas>
+            <atletas>S. Diggins</atletas>
+            <atletas>N. Collier</atletas>
+            <hora_competicion>19:30</hora_competicion>
+            <lugar_competicion>Pista</lugar_competicion>
+          </medalla>
+        </sexo>
+      </categoria_basket>
+    </sede>
+    <sede nombre="Musashino Forest">
+      <ciudad_ubicacion>Chofu, Tokio</ciudad_ubicacion>
+      <capacidad>10.000</capacidad>
+      <esport nom="badminton"></esport>
+      <primer_cop_jjoo>1972</primer_cop_jjoo>
+      <data_inici_competicions>24/07/2021</data_inici_competicions>
+      <data_inici_competicions>02/08/2021</data_inici_competicions>
+      <categoria_badminton tipo="individual">
+        <sexo tipo="masculino">
+          <medalla tipo="oro">
+            <pais_ganador>Dinamarca</pais_ganador>
+            <atletas>Viktor Axelsen</atletas>
+            <hora_competicion>13:50</hora_competicion>
+            <lugar_competicion>Pista</lugar_competicion>
+          </medalla>
+        </sexo>
+        <sexo tipo="femenino">
+          <medalla tipo="oro">
+            <pais_ganador>China</pais_ganador>
+            <atletas>Chen Yufei</atletas>
+            <hora_competicion>06:50</hora_competicion>
+            <lugar_competicion>Pista</lugar_competicion>
+          </medalla>          
+        </sexo>
+      </categoria_badminton>
+      <categoria_badminton tipo="dobles">
+        <medalla tipo="oro">
+          <pais_ganador>China</pais_ganador>
+          <atletas>Yi Lyu Wang</atletas>
+          <atletas>Dong Ping Huang</atletas>
+          <hora_competicion>10:00</hora_competicion>
+          <lugar_competicion>Pista</lugar_competicion>
+        </medalla>
+      </categoria_badminton>
+    </sede>
+    <sede nombre="Centro de Gimnasia de Ariake">
+      <ciudad_ubicacion>Tokio</ciudad_ubicacion>
+      <capacidad>12.000</capacidad>
+      <esport nom="gimnasia rítmica"></esport>
+      <primer_cop_jjoo>1984</primer_cop_jjoo>
+      <data_inici_competicions>24/07/2021</data_inici_competicions>
+      <data_inici_competicions>08/08/2021</data_inici_competicions>
+      <categoria_gimnasia tipo="individual">
+        <sexo tipo="femenino">
+          <medalla tipo="oro">
+            <pais_ganador>Israel</pais_ganador>
+            <atletas>Linoy Ashram</atletas>
+            <hora_competicion>04:50</hora_competicion>
+            <lugar_competicion>Pista</lugar_competicion>
+          </medalla>
+        </sexo>
+      </categoria_gimnasia>
+      <categoria_gimnasia tipo="grupal">
+        <sexo tipo="femenino">
+          <medalla tipo="oro">
+            <pais_ganador>Bulgaria</pais_ganador>
+            <atletas>Simona Diankova</atletas>
+            <atletas>Stefani Kiriakova</atletas>
+            <atletas>Madlen Radukanova</atletas>
+            <atletas>Laura Traets</atletas>
+            <atletas>Erika Zafirova</atletas>
+            <hora_competicion>10:04</hora_competicion>
+            <lugar_competicion>Pista</lugar_competicion>
+          </medalla>
+        </sexo>
+      </categoria_gimnasia>
+    </sede>
+    <sede nombre="Centro Acuático de Tokio">
+      <ciudad_ubicacion>Koto City, Tokio</ciudad_ubicacion>
+      <capacidad>15.000</capacidad>
+      <esport nom="saltos"></esport>
+      <primer_cop_jjoo>1904</primer_cop_jjoo>
+      <data_inici_competicions>25/07/2021</data_inici_competicions>
+      <data_inici_competicions>07/08/2021</data_inici_competicions>
+      <categoria_saltos tipo="triple">
+        <sexo tipo="masculino">
+          <medalla tipo="oro">
+            <pais_ganador>Portugal</pais_ganador>
+            <atletas>Pedro Pichardo</atletas>
+            <hora_competicion>04:00</hora_competicion>
+            <lugar_competicion>Pista</lugar_competicion>
+          </medalla>
+        </sexo>
+        <sexo tipo="femenino">
+            <medalla tipo="oro">
+              <pais_ganador>Venezuela</pais_ganador>
+              <atletas>Yulimar Rojas</atletas>
+              <hora_competicion>13:15</hora_competicion>
+              <lugar_competicion>Pista</lugar_competicion>
+            </medalla>
+          </sexo>
+      </categoria_saltos>
+    </sede>
+    <sede nombre="sakuhari Messe">
+      <ciudad_ubicacion>Makuhari New City, Tokio</ciudad_ubicacion>
+      <capacidad>7.800</capacidad>
+      <esport nom="taekwondo"></esport>
+      <primer_cop_jjoo>1988</primer_cop_jjoo>
+      <data_inicio_competicions>25/07/2021</data_inici_competicions>
+      <data_inici_competicions>27/07/2021</data_inici_competicions>
+      <nombre_categoria>+67Kg</nombre_categoria>
+      <sexo tipo="femenino">
+        <medalla tipo="oro">
+          <pais_ganador>Serbia</pais_ganador>
+          <atletas>Milica Mandic</atletas>
+          <hora_competicion>14:30h</hora_competicion>
+          <lugar_competicion>Pista</lugar_competicion>
+          <nombre_categoria>+80Kg</nombre_categoria>
+        </medalla>
+      </sexo>
+      <sexo tipo="masculino">
+          <medalla tipo="oro">>
+          <pais_ganador>Rusia</pais_ganador>
+          <atletas>Vladislav Larin</atletas>
+          <hora_competicion>14:45h</hora_competicion>
+          <lugar_competicion>Pista</lugar_competicion>
+        </medalla>
+      </sexo>
+    </sede>
+    <sede nombre="Gimnasio Metropolitano de Tokio">
+      <ciudad_ubicacion>Shibuya City, Tokio</ciudad_ubicacion>
+      <capacidad>10.000</capacidad>
+      <esport nom="tenis de mesa"></esport>
+      <primer_cop_jjoo>1988</primer_cop_jjoo>
+      <data_inici_competicions>24/07/2021</data_inici_competicions>
+      <data_inici_competicions>06/08/2021</data_inici_competicions>
+      <nombre_categoria>Dobles</nombre_categoria>
+      <sexo tipo="mixto">
+        <medalla tipo="oro">
+          <pais_ganador>Japón</pais_ganador>
+          <atletas>Jun Mizutani</atletas>
+          <atletas>Mima Ito</atletas>
+          <hora_competicion>19:30</hora_competicion>
+          <lugar_competicion>Pista</lugar_competicion>
+        </medalla>
+      </sexo>
+      <sexo tipo="femenino">
+        <medalla tipo="oro">
+          <nombre_categoria>Individual</nombre_categoria>
+          <pais_ganador>República Popular China</pais_ganador>
+          <atletas>Meng Chen</atletas>
+          <hora_competicion>19:30</hora_competicion>
+          <lugar_competicion>Pista</lugar_competicion>
+        </medalla>
+      </sexo>
+      <sexo tipo="masculino">       
+          <nombre_categoria>Individual</nombre_categoria>
+          <medalla tipo="oro">
+          <pais_ganador>República Popular China</pais_ganador>
+          <atletas>Ma Long</atletas>
+          <hora_competicion>19:30</hora_competicion>
+          <lugar_competicion>Pista</lugar_competicion>
+        </medalla>
+      </sexo>
+    </sede>
+    <sede nombre="Puerto de Veleros de Enoshima">
+      <ciudad_ubicacion>Fujisawa, Kanagawa</ciudad_ubicacion>
+      <capacidad>10.000</capacidad>
+      <esport nom="vela"></esport>
+      <primer_cop_jjoo>1896</primer_cop_jjoo>
+      <data_inici_competicions>25/07/2021</data_inici_competicions>
+      <data_inici_competicions>04/08/2021</data_inici_competicions>
+        <sexo tipo="femenino">
+          <medalla tipo="oro">
+            <pais_ganador>Reino Unido</pais_ganador>
+            <atletas>Mcintyre</atletas>
+            <atletas>Mills</atletas>
+            <hora_competicion></hora_competicion>
+            <lugar_competicion>Pista</lugar_competicion>
+          </medalla>
+        </sexo>
+        <sexo tipo="masculino">
+          <medalla tipo="oro">
+            <pais_ganador>Australia</pais_ganador>
+            <atletas>Mathew Belcher</atletas>
+            <atletas>Will Ryan</atletas>
+            <hora_competicion>22:00</hora_competicion>
+            <lugar_competicion>Puerto</lugar_competicion>
+          </medalla>
+      </sexo>
+    </sede>
+  </sedes>
+</jjoo>

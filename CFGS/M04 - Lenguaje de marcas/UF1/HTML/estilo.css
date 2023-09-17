@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    font-family: 'Sans-serif', Verdana, monospace;
+}
+
+/*==========ETIQUETAS HEADER==========*/
+header {
+    background-color: #10002b;
+    width: 100vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+
+}
+header h1 {
+    font-family: 'Sans-serif', Verdana, monospace;
+    color: #fff;
+    text-align: center;
+}
+
+header img{
+    float: left;
+    padding-left: 2vw;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+/*==========ETIQUETAS NAV==========*/
+nav {
+    background-color: #240046;
+    color: #fff;
+    width: 100vw;
+    height: 10vh;
+    float: left;
+    font-family: 'Sans-serif', Verdana, monospace;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #240046;
+}
+nav li {
+    float: left;
+}
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 20px;
+    margin: 0;
+    text-decoration: none;
+    font-family: 'Sans-serif', Verdana, monospace;
+}
+nav li a:hover {
+    background-color: #5a189a;
+    color: yellow;
+}
+
+/*==========ETIQUETAS MAIN==========*/
+main {
+    background-color: #3c096c;
+    color: #fff;
+    width: 100vw;
+    /*height: 65vh;*/
+    float: left;
+    font-family: 'Sans-serif', Verdana, monospace;
+}
+
+/*==========ETIQUETAS FOOTER==========*/
+footer {
+    background-color: #5a189a;
+    color: #fff;
+    width: 100vw;
+    height: 10vh;
+    float: left;
+}
+
+/*==========ETIQUETAS CLASES==========*/
+.enlaces{
+    height: 70vh;
+}
+.enlaces h2{
+    font-family: 'Sans-serif', Verdana, monospace;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+}
+.enlaces a{
+    color: white;
+    text-align: center;
+}
+.enlaces ul{
+    float: left;
+    padding-left: 550px;
+    padding-top: 30px;
+}
+.enlaces ul li{
+    padding-top: 10px;
+}
+.enlaces a:hover{
+    color: yellow;
+}

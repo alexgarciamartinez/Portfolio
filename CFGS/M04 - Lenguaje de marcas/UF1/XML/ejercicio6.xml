@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <fruites>
+        <fruita nom="Litchi">
+            <varietat>Kway may pink</varietat>
+            <ciutatOrigen>Filipines</ciutatOrigen>
+            <colorFruita>Rosa</colorFruita>
+            <maduracio>Agost</maduracio>
+            <reg>Diari</reg>
+            <preuKg>3,5€</preuKg>
+        </fruita>
+
+        <fruita nom="Longan">
+            <varietat>Champoo</varietat>
+            <ciutatOrigen>Xina</ciutatOrigen>
+            <colorFruita>Marró</colorFruita>
+            <maduracio>Octubre</maduracio>
+            <reg>Diari</reg>
+            <preuKg>2,5€</preuKg>
+        </fruita>
+
+        <fruita nom="Litchi">
+            <varietat>Mauritius</varietat>
+            <ciutatOrigen>Florida</ciutatOrigen>
+            <colorFruita>Vermell</colorFruita>
+            <maduracio>Agost</maduracio>
+            <reg>Diari</reg>
+            <preuKg>3€</preuKg>
+        </fruita>
+    </fruites>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fichas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="fichas.xsd">
+   <ficha numero="1">
+      <nombre>Ana Sanz Tin</nombre>
+      <edad>22</edad>
+      <dni>1112223R</dni>
+   </ficha>
+   <ficha numero="2">
+      <nombre>Iker Rubio Mol</nombre>
+      <edad>23</edad>
+      <dni>444444J</dni>
+   </ficha>
+</fichas>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="fichas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="ficha" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nombre" type="xs:string"/>
+              <xs:element name="edad" type="xs:integer"/>
+              <xs:element name="dni" type="xs:string"/>
+             </xs:sequence>
+             <xs:attribute name="numero" type="xs:integer"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

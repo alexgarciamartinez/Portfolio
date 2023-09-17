@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura numero="27" data="2019-12-18" moneda="Euro">
+    <dadesEmissor>
+        <nom>Llibreria Pedro</nom>
+        <cif>44555666-B</cif>
+        <telefon>777888999</telefon>
+    </dadesEmissor>
+    <dadesClient>
+        <nom>Biblioteca Central</nom>
+        <cif>33111222-A</cif>
+        <telefon>333999444</telefon>
+    </dadesClient>
+    <detallFactura import="86.12">
+        <linia codiArticle="AW7" tipus="Llibre">
+            <descripcio>Analítica Web 2.0</descripcio>
+            <quantitat>1</quantitat>
+            <oferta/>
+            <pvp>25.12</pvp>
+        </linia>
+            <linia codiArticle="CP5" tipus="DVD">
+            <descripcio>Curs d'HTML</descripcio>
+            <quantitat>2</quantitat>
+            <pvp>30.5</pvp>
+        </linia>
+    </detallFactura>
+</factura>
+
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="factura">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="dadesEmissor">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="nom"/>
+              <xs:element type="xs:string" name="cif"/>
+              <xs:element type="xs:int" name="telefon"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dadesClient">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="nom"/>
+              <xs:element type="xs:string" name="cif"/>
+              <xs:element type="xs:int" name="telefon"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="detallFactura">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="linia" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="descripcio"/>
+                    <xs:element type="xs:byte" name="quantitat"/>
+                    <xs:element type="xs:string" name="oferta" minOccurs="0"/>
+                    <xs:element type="xs:float" name="pvp"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="codiArticle" use="optional"/>
+                  <xs:attribute type="xs:string" name="tipus" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:float" name="import"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute type="xs:byte" name="numero"/>
+      <xs:attribute type="xs:date" name="data"/>
+      <xs:attribute type="xs:string" name="moneda"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+    <color>vermell</color>
+    <color>blau</color>    
+    <color>groc</color>    
+</colors>
+<xs:element name="colors">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="color" type="xs:string"/>
+            <xs:element name="color" type="xs:string"/>
+            <xs:element name="color" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>

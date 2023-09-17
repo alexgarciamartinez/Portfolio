@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<citizen xmlns:productorsxml="http://www.example.com/xml/productors.xml"
+xmlns:cityxml="http://www.example.com/xml/cities.xml">
+    <productorsxml:cif>001122</personxml:cif>
+    <productorsxml:nom>Manolo</productorsxml:nom>
+    <productors:adreça>Av/Atomarxculolandia</productorsxml:adreça>
+    <cityxml:homecity>
+        <cityxml:name>London</cityxml:name>
+        <cityxml:lat>123.000</cityxml:lat>
+        <cityxml:long>0.00</cityxml:long>
+    </cityxml:homecity>
+</citizen>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fruiteria>
+    <stock>
+        <codi>01</codi>
+        <nom_producte>Maduixa</nom_producte>
+        <nom_productor>Manolo</nom_productor>
+        <tipus>
+            <aliment>Si</aliment>
+            <grau>2</grau>
+            <frigorific>No</frigorific>
+        </tipus>
+        <seccio>Fruita</seccio>
+    </stock>
+    <stock>
+        <codi>02</codi>
+        <nom_producte>Pera</nom_producte>
+        <nom_productor>Manolo</nom_productor>
+        <tipus>
+            <aliment>Si</aliment>
+            <grau>3</grau>
+            <frigorific>No</frigorific>
+        </tipus>
+        <seccio>Fruita</seccio>
+    </stock>
+    <stock>
+        <codi>03</codi>
+        <nom_producte>Suc</nom_producte>
+        <nom_productor>Manolo</nom_productor>
+        <tipus>
+            <aliment>No</aliment>
+            <grau>3</grau>
+            <frigorific>Si</frigorific>
+        </tipus>
+        <seccio>Altres</seccio>
+    </stock>
+</fruiteria>
