@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    <channel>
+        <!--SKIP HOURS-->
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>11</hour>
+            <hour>12</hour>
+            <hour>13</hour>
+            <hour>14</hour>
+            <hour>15</hour>
+            <hour>16</hour>
+            <hour>17</hour>
+            <hour>18</hour>
+            <hour>19</hour>
+            <hour>20</hour>
+            <hour>21</hour>
+            <hour>22</hour>
+            <hour>23</hour>
+        </skipHours>
+        <!--SKIP HOURS-->
+        
+        <!--ITEM-->
+        <item id="dolcos">
+            <title><![CDATA[<h2>DOLCOS I MES</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/botigues/dolcos-mes</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/72f5a997792e244f0d00df77b3f6a6307ea0910b6d976c6b3bbdd66f52e5173a.png?tx=ar_1.86,c_crop/w_503,h_270,c_fit"></p><p>Alguna vegada has somiat en un món de dolços i llaminadures? Doncs és ben real! A Cal Caramel hi trobaràs un assortiment tan gran de llaminadures que no sabràs quines triar.</p>]]></description>
+            <category>PortAventura/Botigues/Mediterrania/Llaminadures</category>    
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:40:00 +0100</pubDate>
+        </item>
+
+        <item id="surf">
+            <title><![CDATA[<h2>SURF PARADISE</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/botigues/surf-paradise</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/a2598dec384f8058a6ef838be0acb9c9ced5118164eec735ddf857598a24465e.jpg?tx=ar_1.86,c_crop/w_503,h_270,c_fit"></p><p>A PortAventura World també hi ha lloc per a la moda i les compres! A la botiga Superdry hi ha la roba més cool del moment: samarretes, polos, pantalons, motxilles… Busquis el que busquis, aquí ho trobaràs!</p>]]></description>
+            <category>PortAventura/Botigues/Polynesia/Souvenirs</category>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:40:00 +0100</pubDate>
+        </item>
+
+        <item id="kambuha">
+            <title><![CDATA[<h2>KAMBUHA</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/botigues/kambuha</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/81f9ba2f8774cad7a3352326b7ece5c1fa4a8e6c0b6cb25e65db6de83bb80bf4.jpg?tx=ar_1.86,c_crop/w_503,h_270,c_fit"></p><p>Animals de peluix exòtics, roba amb estampats tribals i objectes de decoració dels llocs més remots són algunes de les coses que hi trobaràs. Tot això, sense haver de travessar el mar!</p>]]></description>
+            <category>PortAventura/Botigues/Xina/Souvenirs</category>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:40:00 +0100</pubDate>
+        </item>
+
+        <item id="tianguis">
+            <title><![CDATA[<h2>TIANGUIS</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/botigues/tianguis</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/7c9d3038a05df30f320bc075f3f8d7ec4ec498c6bd6ce021c1001968f2b8dafe.jpg?tx=ar_1.86,c_crop/w_503,h_270,c_fit"></p><p>L’art i l’artesania mexicans són apassionants, i a PortAventura ens agraden tant com a tu. Per això, et portem una selecció exclusiva de productes de qualitat que segur que voldràs emportar-te a casa. Peces especials que només trobaràs a Tianguis, davant de La Hacienda.</p>]]></description>
+            <category>PortAventura/Botigues/Mexico/Souvenirs</category>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:40:00 +0100</pubDate>
+        </item>
+        <!--ITEM-->
+    </channel>
+    <pubDate>Tue, 28 Feb 2023 20:40:00 +0100</pubDate>
+    <language>ca</language>
+    <managingEditor>garcia.martinez.alex@alumnat.copernic.cat</managingEditor>    
+</rss>

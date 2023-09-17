@@ -1,0 +1,46 @@
+<rss version="2.0">
+    <channel>
+        <title>Novetats de M04</title>
+        <link>https://sites.google.com/copernic.cat/m04</link>
+        <description>Novetats i notícies del mòdul M04</description>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <ttl>40</ttl>
+        <pubDate>Mon, 11 Jan 2021 11:30:00 +0100</pubDate>
+        <title>M04</title>
+        <image>
+            <url>https://sites.google.com/copernic.cat/m04/imatges/imatge.png</url>
+            <link>https://sites.google.com/copernic.cat/m04</link>
+            <category>1DAM/mòduls/Llengautge de marques</category>
+            <description>M04</description>
+            <width>50</width>
+            <height>50</height>
+        </image>
+        <copyright>Copyright 2021 Xesca</copyright>
+        <lastBuildDate>Mon, 11 Jan 2021 12:30:00 +0100</lastBuildDate>
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+            <hour>6</hour>
+        </skipHours>
+        <generator>FeedForAll v2.0 (2.0.4.0)</generator>
+        <language>ca</language>
+        <managingEditor>francesca.tomas@copernic.cat</managingEditor>
+        <managingEditor>francesca.tomas@copernic.cat</managingEditor>
+        <item>
+            <title>UF1</title>
+            <link>https://sites.google.com/copernic.cat/m04/uf1</link>
+            <description>En aquesta UF coneixerem al llenguatge XML</description>
+            <guid>https://sites.google.com/copernic.cat/m04/uf1</guid>
+            <enclosure url="https://sites.google.com/copernic.cat/m04/so/so.mp3" length="1069871" type="audio / mpeg"/>
+            <author>francesca.tomas@gmail.com</author>
+            <source url="https://sites.google.com/copernic.cat/m04/canalSindicacio">Canal sindicació M04</source>
+            <pubDate>Mon, 11 Jan 2021 12:30:00 +0100</pubDate>
+            <category>1DAM/mòduls/Llengautge de marques/M04/UF1</category>
+        </item>
+    </channel>
+</rss>

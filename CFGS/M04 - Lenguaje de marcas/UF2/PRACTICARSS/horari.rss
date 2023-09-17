@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    <channel>
+        <!--SKIP DAY-->  
+        <skipDays>
+                <day>Tuesday</day>
+                <day>Wednesday</day>
+                <day>Thursday</day>
+                <day>Friday</day>
+                <day>Saturday</day>
+                <day>Sunday</day>
+        </skipDays>
+        <!--SKIP DAY-->
+        
+        <!--ITEM-->
+        <item id="horari">
+            <title><![CDATA[<h2>Horari i calendari de Port Aventura</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/horaris-calendari</link>	
+            <description><![CDATA[<p><img src="https://s2.ppllstatics.com/ideal/www/multimedia/202212/30/media/cortadas/calendario-laboral-festivos-2023-k2zH-U19011288407657E-1248x770@Ideal.jpg"></p><p></p>]]></description>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Wed, 22 Feb 2023 13:00:00 +0100</pubDate>
+        </item>
+        <!--ITEM-->
+        <pubDate>Wed, 22 Feb 2023 13:00:00 +0100</pubDate>
+        <language>ca</language>
+        <managingEditor>garcia.martinez.alex@alumnat.copernic.cat</managingEditor>
+    </channel>
+</rss>

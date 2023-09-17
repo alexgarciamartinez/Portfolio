@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exercici1_2.xsl"?>
+<institut web="https://copernic.cat/" nom="Nicolau Copèrnic">
+    <cicles>
+        <cicle id="ASIX">
+            <nom>Administració de Sistemes Informàtics en Xarxa</nom>
+            <grau>Superior</grau>
+            <anyDecret any="2009"/>
+        </cicle>
+        <cicle id="DAW">
+            <nom>Desenvolupament d’aplicacions web</nom>
+            <grau>Superior</grau>
+            <anyDecret any="2010"/>
+        </cicle>
+        <cicle id="DAM">
+            <nom>Desenvolupament d’aplicacions multiplataforma</nom>
+            <grau>Superior</grau>
+            <anyDecret any="2010"/>
+        </cicle>
+        <cicle id="SMIX">
+            <nom>Sistemes Microinformàtic i Xarxes</nom>
+            <grau>Mitjà</grau>
+            <anyDecret any="2008"/>
+        </cicle>
+    </cicles>
+</institut>

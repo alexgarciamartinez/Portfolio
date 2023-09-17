@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    <channel>    
+        <!--ITEM-->
+        <item id="polynesia">
+            <title><![CDATA[<h2>POLYNESIA</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/portaventura/polynesia</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/55d22e27d0ed0ac9577fcfad672af12ca32e0116d8e6b3547c1e5931319f9306.jpg?tx=ar_1.86,c_crop/w_335,h_180,c_fit"></p><p>Explora-la i gaudeix de les experiències més divertides i exòtiques de la jungla, i d’atraccions plenes d’emocions. Sent al cos la fúria d’un volcà en erupció, resisteix les tempestes més ferotges de la jungla i viu un munt d’emocions a les terres de l’oceà Pacífic.</p>]]></description>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 21:00:00 +0100</pubDate>    
+        </item>
+
+        <item id="xina">
+            <title><![CDATA[<h2>XINA</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/portaventura/china</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/1a7dbbe52a6190cbfa4a6d50418fae167f7473916ec31f5f6aa799f397b7ea88.jpg?tx=ar_1.86,c_crop/w_335,h_180,c_fit"></p><p>Viu en primera persona les experiències més impressionants a Shambhala o al temible Dragon Khan. Entra a totes les botigues, assaboreix els plats dels restaurants fabulosos que hi ha, emociona’t amb els espectacles i diverteix-te com mai a les atraccions.</p>]]></description>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 21:00:00 +0100</pubDate>    
+        </item>
+
+        <item id="farwest">
+            <title><![CDATA[<h2>FAR WEST</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/portaventura/far-west</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/f8000e5381ef1a474f5124ff14de05c338db1fe3d632c60d9f24b4e3ed0225ad.jpg?tx=ar_1.86,c_crop/w_335,h_180,c_fit"></p><p>Experimenta com un autèntic vaquer de l’oest llunyà a l’àrea de Far West, inspirada en la cultura nord-americana. Viatja a un poble perdut de l’oest llunyà.</p>]]></description>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 21:00:00 +0100</pubDate>    
+        </item>
+
+        <item id="mediterrania">
+            <title><![CDATA[<h2>MEDITERRANIA</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/portaventura/mediterrania</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/5235fe98605421220e1951c6c2c1746f68438cb2a4c4347aa2a91c937bbf138b.jpg?tx=ar_1.86,c_crop/w_335,h_180,c_fit"></p><p>Inspirada en un poble de pescadors, acull diversió i tradició en la mateixa mesura. Deixa’t seduir pel clima càlid, la gent agradable i el bon menjar del litoral mediterrani.</p>]]></description>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 21:00:00 +0100</pubDate>    
+        </item>
+
+        <item id="mexico">
+            <title><![CDATA[<h2>MEXICO</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/portaventura/mexico</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/74023407be7b03546c32e6b2a7675ea309ed7fe0639df10f9c708fc96e76f717.jpg?tx=ar_1.86,c_crop/w_335,h_180,c_fit"></p><p>Deixa’t portar per les atraccions impressionants de l’àrea de México a PortAventura Park, i pel ritme dels seus famosos mariachis. Connecta amb la cultura mexicana i forma’n part tan bon punt travessis la frontera d’aquest món.</p>]]></description>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 21:00:00 +0100</pubDate>    
+        </item>
+
+        <item id="sesamo">
+            <title><![CDATA[<h2>SESAMO AVENTURA</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/portaventura/sesamo-aventura</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/157749995bb8ea21116874e3e1354b6b9680ea9cc5f6feda80715ac701ddcf37.jpg?tx=ar_1.86,c_crop/w_335,h_180,c_fit"></p><p>Vine i descobreix SésamoAventura, l’àrea de PortAventura World dedicada als més petits; i coneix els personatges fabulosos que hi viuen. Deixa’t sorprendre per aquest lloc fantàstic, totalment ambientat en el món de Sesame Street.</p>]]></description>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 21:00:00 +0100</pubDate>    
+        </item>
+        <!--ITEM-->
+    </channel>
+    <pubDate>Tue, 28 Feb 2023 21:00:00 +0100</pubDate>    
+    <language>ca</language>
+    <managingEditor>garcia.martinez.alex@alumnat.copernic.cat</managingEditor>    
+</rss>

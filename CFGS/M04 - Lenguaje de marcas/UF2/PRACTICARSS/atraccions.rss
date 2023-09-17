@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    <channel>
+        <!--SKIP DAY-->  
+        <skipDays>
+                <day>Friday</day>
+                <day>Saturday</day>
+                <day>Sunday</day>
+        </skipDays>
+        <!--SKIP DAY-->
+        <!--SKIP HOURS-->
+        <skipHours>
+            <hour>9</hour>
+            <hour>10</hour>
+            <hour>11</hour>
+            <hour>12</hour>
+            <hour>13</hour>
+            <hour>14</hour>
+            <hour>15</hour>
+            <hour>16</hour>
+        </skipHours>
+        <!--SKIP HOURS-->
+        
+        <!--ITEM-->
+        <item id="kontiki">
+            <title><![CDATA[<h2>Kontiki</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/atraccions/kontiki</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/4ff35e62469a81cc1f41827c10056b7d47958fbaffe50541801902eb682fd399.jpg?tx=ar_1.86,c_crop/w_335,h_180,c_fit"></p><p>Totes les previsions anuncien una tempesta damunt la zona del Pacífic per on navega el gran catamarà Kontiki. Però aquest vaixell és famós per haver resistit tempestes en què altres embarcacions han naufragat.</p>]]></description>
+            <category>PortAventura/Atraccions/Polynesia/Moderada</category>    
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:00:00 +0100</pubDate>        
+        </item>
+
+        <item id="dragon">
+            <title><![CDATA[<h2>DRAGON KHAN</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/atraccions/dragon-khan</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/7846383b2ba32748f504f804411a708259250724ebed47263d38e627442c4fbb.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>Diu la llegenda que l’orgullós príncep Hu va intentar destronar l’emperador, però que va fracassar en l’intent. Com a càstig, els savis déus el van convertir en un gran drac i el van condemnar a rodar eternament sense rumb. L’atracció Dragon Khan de PortAventura comença amb un gran descens, seguit de vuit loopings, que recorreràs en 69 segons a una velocitat màxima de 110 km/h.</p>]]></description>
+            <category>PortAventura/Atraccions/Xina/Forta</category>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:00:00 +0100</pubDate>        
+        </item>
+
+        <item id="hurakan">
+            <title><![CDATA[<h2>HURAKAN CONDOR</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/atraccions/hurakan-condor</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/6f5aea65be2089605f5b17e9f424cfb62110c1cb1a94b407945f85d2cda84f79.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>Quan arribis a l’àrea de México de PortAventura, veuràs una gran torre de més de 100 metres d’alt que converteixen Hurakan Condor en l’atracció més imponent del parc. El déu Huracan alliberarà tota la seva ràbia sobre els aventurers intrèpids que gosin pujar-hi i descobrir les sensacions que els ha preparat.</p>]]></description>
+            <category>PortAventura/Atraccions/Mexico/Forta</category>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:00:00 +0100</pubDate>        
+        </item>
+
+        <item id="stampida">
+            <title><![CDATA[<h2>STAMPIDA</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/atraccions/stampida</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/c14196f585e90ef03b40a710ac16ceee794d25f3fe61f72f7b76461d70cfac49.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>Quan els primers colonitzadors europeus van arribar al nou continent americà no hi havia lleis de propietat. Així que el primer que arribava a un bon terreny podia reclamar-ne les terres.</p>]]></description>
+            <category>PortAventura/Atraccions/Far West/Forta</category>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:00:00 +0100</pubDate>        
+        </item>
+        <!--ITEM-->
+        <pubDate>Tue, 28 Feb 2023 20:00:00 +0100</pubDate>        
+        <language>ca</language>
+        <managingEditor>garcia.martinez.alex@alumnat.copernic.cat</managingEditor>
+    </channel>
+</rss>

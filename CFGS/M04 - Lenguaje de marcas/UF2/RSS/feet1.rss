@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    
+    <channel>  
+        <title>El temps de la meva ciutat, Terrassa</title>
+        <link>https://www.terrassa.cat</link> 
+        <description>El temps de Terrassa</description>        
+        <category>Temps/Ciutat/Terrassa</category>   
+        <managingEditor>francesca.tomas@copernic.cat </managingEditor>
+        <pubDate>Mon, 11 Jan 2021 11:30:00 +0100</pubDate>
+        
+        
+        <item>
+            <title><![CDATA[<h2>El temps de la meva ciutat</h2>]]></title>
+			
+            <link>https://www.tiempo.es/barcelona-terrassa-es0bc0267.html</link>
+			
+            <description><![CDATA[<p><img src="https://statics.ccma.cat/eltemps/img/nube_sol.png"></p><p>Aquí tenim el temps de la meva ciutat, Terrassa</p>]]></description>
+	    
+            <author>francesca.tomas@copernic.cat</author>
+            
+            <pubDate>Mon, 11 Jan 2021 12:30:00 +0100</pubDate>
+	    
+        </item>
+        
+        
+        
+    </channel>
+	
+</rss>

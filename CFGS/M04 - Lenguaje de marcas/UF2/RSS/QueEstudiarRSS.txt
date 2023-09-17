@@ -1,0 +1,7 @@
+CHANNEL ---> Element principal que conté tot el feed. És obligatori i només pot haver-hi 1 en tot el document
+ITEM ---> On es guarda informació del feed
+IMAGE ---> Etiqueta per posar una imatge amb els atributs que volguem
+AUTHOR ---> Adreça de correu de l'autor de la noticia 
+QUE ES UN FEED ---> Es com una newsletter, un lloc on actualitzes el teu blog i penjes noticies
+QUE ES UN SITE WEB --->
+QUE ES EL TAG SKIPDAY ---> Dias que no quieres actualizar el sitio

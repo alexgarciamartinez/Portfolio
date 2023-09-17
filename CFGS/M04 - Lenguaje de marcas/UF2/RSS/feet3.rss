@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    
+    <channel>  
+        <title>Parc de Vallparadís</title>
+        <link>https://www.terrassa.cat/vallparadis</link> 
+        <description>El arc de Vallparadís de Terrassa</description>        
+        <category>Parc/Ciutat/Terrassa</category>   
+        <managingEditor>francesca.tomas@copernic.cat </managingEditor>
+        <pubDate>Mon, 11 Jan 2021 11:30:00 +0100</pubDate>
+        
+        
+        <item>
+            <title><![CDATA[<h2>El parc de Vallparadís</h2>]]></title>
+			
+            <link>https://www.terrassa.cat/vallparadis</link>
+			
+            <description><![CDATA[<p><img src="https://www.terrassa.cat/documents/12006/21687396/Vista+sur+parc+vallparadis.jpg"></p><p>Aquí tenim el parc de Vallparadís de Terrassa</p>]]></description>
+	    
+            <author>francesca.tomas@copernic.cat</author>
+	          
+            <pubDate>Mon, 11 Jan 2021 12:30:00 +0100</pubDate>
+	    
+        </item>
+        
+    </channel>
+	
+</rss>

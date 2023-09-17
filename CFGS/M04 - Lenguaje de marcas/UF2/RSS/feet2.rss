@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    
+    <channel>  
+        <title>El mapa de la meva ciutat, Terrassa</title>
+        <link>https://www.terrassa.cat</link> 
+        <description>El mapa de Terrassa</description>        
+        <category>Mapa/Ciutat/Terrassa</category>   
+        <managingEditor>francesca.tomas@copernic.cat </managingEditor>
+        <pubDate>Mon, 11 Jan 2021 11:30:00 +0100</pubDate>
+        
+        
+        <item>
+            <title><![CDATA[<h2>El mapa de la meva ciutat</h2>]]></title>
+			
+            <link>https://www.google.com/maps/@41.5582458,1.9821152,13z</link>
+			
+            <description><![CDATA[<p><img src="https://graffica.info/wp-content/uploads/2020/02/nuevo-icono-de-google-maps.jpg"></p><p>Aquí tenim el mapa de la meva ciutat, Terrassa</p>]]></description>
+		    
+            <author>francesca.tomas@copernic.cat</author>
+	          
+            <pubDate>Mon, 11 Jan 2021 12:30:00 +0100</pubDate>
+	    
+        </item>
+        
+    </channel>
+	
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>noticias</title>
+        <link>http://librosweb.es/</link>
+        <description>Una web con ejercicios utiles</description>
+        <image>
+        <url>http://static.mnium.org/images/contenu/actus/LOL/Malphite/lol_malphite_skin_glacial_artwork_hd.jpg</url>
+        <title>Malphite Glacial</title>
+        <link>http://www.millenium.org/lol/accueil/guides/malphite-jungle-s4-counteritems-maitrises-et-runes-44859</link>
+        </image>
+        <item>
+            <title>League of Legends site</title>
+            <link>http://www.millenium.org/</link>
+            <description>Una guia de Malphite</description>
+        </item>
+        <item>
+            <title>Noticias de 20 minutos</title>
+            <link>http://www.20minutos.es/</link>
+            <description>Portada del periodico gratuito</description>
+        </item>
+    </channel>
+</rss>
+

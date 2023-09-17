@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    <channel>
+        <!--SKIP HOURS-->
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>11</hour>
+            <hour>12</hour>
+            <hour>13</hour>
+            <hour>14</hour>
+            <hour>15</hour>
+            <hour>16</hour>
+            <hour>17</hour>
+            <hour>18</hour>
+            <hour>19</hour>
+            <hour>20</hour>
+            <hour>21</hour>
+            <hour>22</hour>
+            <hour>23</hour>
+        </skipHours>
+        <!--SKIP HOURS-->
+        
+        <!--ITEM-->
+        <item id="raco">
+            <title><![CDATA[<h2>RACO DE MAR</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/restaurants/raco-de-mar</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/1d5665c85b963a7affd4073c935af15764f9339e11dd27bc8ac682ab5edf600b.jpg?tx=ar_1.86,c_crop/w_503,h_270,c_fit"></p><p>La dieta mediterrània és famosa per ser saludable, però també per ser deliciosa! A Racó de Mar hem seleccionat els grans sabors del Mediterrani per oferir-te un gran viatge gastronòmic: des del socarrat d’una paella valenciana fins a una orada al forn o una pizza amb els ingredients més frescos. Nyam, nyam!</p>]]></description>
+            <category>PortAventura/Restaurants/Mediterrania/Cuina mediterrània: amanides, arrossos, pizzes i pasta</category>    
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:20:00 +0100</pubDate>
+        </item>
+
+        <item id="cafeteria">
+            <title><![CDATA[<h2>CAFETERIA BORA BORA</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/restaurants/cafeteria-bora-bora</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/dfab3b62fe4737a68f9afd3a9795be14d6d3d2db7caf43a51b099000f6538616.jpg?tx=ar_1.86,c_crop/w_503,h_270,c_fit"></p><p>Just al costat del restaurant Bora Bora hi ha la cafeteria, on pots accedir des de la terrassa principal. Amb una àmplia oferta de productes veggie, com ara batuts de fruites, smoothies i sorbets, perquè et puguis refrescar amb els sabors i l’ambient més tropicals.</p>]]></description>
+            <category>PortAventura/Restaurants/Polynesia/Productes veggie: batuts, smoothies i sorbets</category>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:20:00 +0100</pubDate>
+        </item>
+
+        <item id="marco">
+            <title><![CDATA[<h2>MARCO POLO</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/restaurants/marco-polo</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/05fc82032607d88786acfa0c1e97d85c244f8cfa2705112ad9f545d677650d15.jpg?tx=ar_1.86,c_crop/w_503,h_270,c_fit"></p><p>Els grans exploradors van portar sabors nous i diferents al nostre món. I a Marco Polo te’ls oferim amb un espectacular bufet lliure! El lloc ideal si vols provar una mica de tot, o si senzillament et costa decidir-te per un únic plat. Vine i degusta el món al cor de China.</p>]]></description>
+            <category>PortAventura/Restaurants/Xina/Amanides, arrossos, pasta, peix, carn i plats asiàtics</category>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:20:00 +0100</pubDate>
+        </item>
+
+        <item id="cantina">
+            <title><![CDATA[<h2>LA CANTINA</h2>]]></title>		
+            <link>https://www.portaventuraworld.com/ca/restaurants/la-cantina</link>	
+            <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/879b22103d19e6b811abf4ddf58a0a0929cde2ac0b4136c63cbacba7d514a1db.jpg?tx=ar_1.86,c_crop/w_503,h_270,c_fit"></p><p>Gaudeix del Mèxic més alegre i divertit a La Cantina, on t’esperen mariachis amb un gran espectacle perquè els teus àpats es converteixin en una autèntica festa. T’esperem davant la sortida d’Hurakan Condor amb menjar mexicà, amanides i postres… Que comenci la festa!</p>]]></description>
+            <category>PortAventura/Restaurants/Mexico/Cuina mexicana: amanides, postres, burritos i xili amb carn</category>
+            <author>garcia.martinez.alex@alumnat.copernic.cat</author>
+            <pubDate>Tue, 28 Feb 2023 20:20:00 +0100</pubDate>
+        </item>
+        <!--ITEM-->
+    </channel>
+    <pubDate>Tue, 28 Feb 2023 20:20:00 +0100</pubDate>
+    <language>ca</language>
+    <managingEditor>garcia.martinez.alex@alumnat.copernic.cat</managingEditor>
+</rss>

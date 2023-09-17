@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    
+    <channel>  
+        <title>Festival de Jazz de Terrassa</title>
+        <link>https://www.jazzterrassa.org/</link> 
+        <description>El festival de Jazz de Terrassa</description>        
+        <category>Festival/Jazz/Ciutat/Terrassa</category>   
+        <managingEditor>francesca.tomas@copernic.cat </managingEditor>
+        <pubDate>Mon, 11 Jan 2021 11:30:00 +0100</pubDate>
+        
+        
+        <item>
+            <title><![CDATA[<h2>Festival de Jazz de Terrassa</h2>]]></title>
+			
+            <link>https://www.jazzterrassa.org/</link>
+			
+            <description><![CDATA[<p><img src="https://www.jazzterrassa.org/sites/all/themes/bootstrap_stripe/images/logo-light-linia.png"></p><p>Festival de Jazz de Terrassa</p>]]></description>
+	    
+            <author>francesca.tomas@copernic.cat</author>
+	          
+            <pubDate>Mon, 11 Jan 2021 12:30:00 +0100</pubDate>
+	    
+        </item>
+        
+    </channel>
+	
+</rss>

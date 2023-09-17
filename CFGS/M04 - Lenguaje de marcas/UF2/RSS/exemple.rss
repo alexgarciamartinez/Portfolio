@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> <!-- Etiqueta arrel que indica al sistema que es tracta d'un document RSS. L'atribut version és opcional però molt recomanable utilitzar-lo -->
+    <channel>  <!-- Element principal que conté tot el contingut del feet . Aquest element és obligatori i només pot haver-hi 1 en tot el document-->
+        <!-- El contingut esta format per elemnets predefinits dels quals 3 són obligatoris i 16 opcionals-->
+	
+        <!-- ELEMENTS OBLIGATORIS-->
+        <!--  El nom del canal al que pertany el feed. Si el lloc web al qual pertany conté la mateixa informació que el document RSS, el nom del seu canal ha de ser el mateix que el nom del seu lloc web. -->
+        <title>Novetats de M04</title>
+	   
+        <!-- Adreça del lloc web al qual pertany el canal del feed-->
+        <link>https://sites.google.com/copernic.cat/m04</link> 
+	   
+        <!-- Descripció breu del canal al qual pertnay el feed-->
+        <description>Novetats i notícies del mòdul M04</description> 
+	   
+        <!-- ELEMENTS OPCIONALS -->
+        <!-- Especifica una o més categories a les que pertany el feed separats per una barra inclinada (/). Té un atribut opcional, domain,  que identifica una taxonomia de categorització -->
+        <category domain="http://www.taxonomia.com/taxonomiaCicles">1DAM/mòduls/Llengautge de marques</category>
+        
+        <!-- URL on es troben les especificacions del llenguatge utilitzat per escriure aquest document. Simplement és informatiu. -->
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs> 
+	   
+        <!-- Minuts que el feed ha de romandre emmagatzemat a memòria cache abans de ser actualitzat -->
+        <ttl>40</ttl> 
+	   
+        <!-- S'especifica l'última data de publicació del feed en format RFC 822 (https://www.w3.org/Protocols/rfc822/) amb l'excepció que l'any pot expressar-se amb dos o quatre caràcters -->
+        <pubDate>Mon, 11 Jan 2021 11:30:00 +0100</pubDate>
+	   
+        <!--S'especific una imatge que es pot mostrar amb el canal, com  per exemple la icona. El format d'aquesta imatge pot ser GIF, PNG o JPEG.
+        Està format per tres elements obligatoris i tres opcionals.-->
+        <image>
+            <!-- ELEMENTS OBLIGATORIS-->
+            <!-- URL de la imatge. Ha d'estar en el mateix directori del servidor on guardem el canal.-->
+            <url>https://sites.google.com/copernic.cat/m04/imatges/imatge.png</url>
+            <!-- Títol  o text de la imatge  amb la seva descripció. Aquest contingut s'utilitza en l'atribut alt de l'element <img> d'HTML quan el canal es mostra en format HTML. Ha de coincidir amb el títol del canal.-->
+            <title>Novetats de M04</title> <!--Escrit en format HTML-->
+            <!-- Enllaç al lloc web del canal. Ha de  coincidir amb l'element link de channel.-->
+            <link>https://sites.google.com/copernic.cat/m04</link>
+        
+            <!-- ELEMENTS OPCIONALS-->
+            <!-- Especifica el text en l'atribut títol de l'element <img> d'HTML-->
+            <description>M04</description>
+            <!-- Amplada de la imatge. Per defecte el valor és 88 píxels, sent el valor màxim 144 píxels. -->
+            <width>50</width>
+            <!-- Alçada de la imatge. Per defecte el valor és 31 píxels, sent el valor màxim 400 píxels.-->
+            <height>50</height>
+        </image>
+	   
+        <!--Especifica els drets d'autor del contingut-->
+        <copyright>Copyright 2021 Xesca</copyright>
+	   
+        <!-- S'especifica la data de la última modificació del contingut del document en format RFC822. -->
+        <lastBuildDate>Mon, 11 Jan 2021 13:30:00 +0100</lastBuildDate>
+	   
+        <!--Especifica els dies en els quals l'agregador no ha d'actualitzar el feed. Conte tants elements <day> com dies es vulguin especificar, com a màxim 7 -->
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+	   
+        <!--Especifica les hores en les quals l'agregador no ha d'actualitzar el feed. Conte tants elements <hour> com hores es vulguin especificar, com a màxim 24 on es declaren les hores de 0 a 23. -->
+        <skipHours>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+            <hour>6</hour>
+        </skipHours>
+	   
+        <!-- Especifica el programa fet servir per generar el feed -->
+        <generator>FeedForAll v2.0 (2.0.4.0)</generator>
+	   
+        <!-- Especifica l'idioma en que estàescrit el feed. especifica mitjançant un codi curt que ha de ser permés per WWW Consortium -->
+        <language>ca</language>
+	   
+        <!-- Especifica l'adreça de correu electrònic de l'editor o editora del contingut del document -->
+        <managingEditor>francesca.tomas@copernic.cat </managingEditor>
+	   
+        <!-- Especifica l'adreça de correu electrònic del responsable tècnic del canal al que pertany el feed -->
+        <webMaster>francesca.tomas@copernic.cat</webMaster>
+	   
+        <!--Els element ítem són on es guarda la informació del feed, és a dir, les novetats o notícies que visualitzarà l'usuari . Cada ítem correspon a una notícia o novetat.-
+        El seu contingut són 10 elements opcionals. Perquè la validació de l'ítem sigui correcta és necessari que aparegui l'element títol o descripció. 
+        El contingut dels elements que es mostraran a l'usuari, poden estar escrits en text pla o format HTMl. En l'últim cas, escriurem el contingut en format HTML dins el bloc 
+        <![CDATA[...]]> -->
+        
+        <item>
+	   
+            <!-- Títol de l'ítem -->
+            <title><![CDATA[<h1>UF1</h1>]]></title>
+			
+            <!-- L'enllaç corresponent al contingut de l'ítem dins el lloc web -->
+            <link>https://sites.google.com/copernic.cat/m04/uf1</link>
+			
+            <!-- El contingut d'aquest element és una sinopsi del contingut de l'ítem. Pot ser una breu descripció, l'inici de la notícia o novetat que guarda l'ítem o la notícia o novetat
+            completa, encara que aquesta és l'opció menys habitual. -->
+            <description><![CDATA[<p><img src="http://localhost/M04/imatges/UF1.png"></p><p>En aquesta UF coneixerem al llenguatge XML</p>]]></description> <!--Escrit en format HTML -->
+			
+            <!-- S'especifica un identificador únic per l'ítem. Pot contenir un atribut opcional isPermaLink que si li assignem verdader, el sistema esperarà una URL com identifidor. Aquest ´es el valor per defecte d'aquest atribut -->
+            <guid isPermaLink="false">001N</guid>
+	    
+            <!-- Afegeix un arxiu multimèdia, no conté contingut, només tres atributs obligatoris:
+            - Adreça on es troba l'arxiu. Ha d'estar en el mateix directori del servidor on guardem el canal.
+            - Grandària en bytes de l'arxiu.
+            - Tipus MIME de l'arxiu multimèdia (https://www.iana.org/assignments/media-types/media-types.xhtml) -->
+            <enclosure url="https://sites.google.com/copernic.cat/m04/so/so.mp3" length="1069871" type="audio/mp3"/>
+	    
+            <!-- Adreça de correu de l'autor o autora de la notícia o novetat -->
+            <author>francesca.tomas@copernic.cat</author>
+	    
+            <!--Especifica el canal de sindicació del que prové la noticia o novetat. Conte un atribut obligatòri, la URL del canal.-->
+            <source url="https://sites.google.com/copernic.cat/m04/canalSindicacio">Canal sindicació M04</source>
+	    
+            <!-- Especifica l'última data de publicació de l'ítem en  format RFC822-->
+            <pubDate>Mon, 11 Jan 2021 12:30:00 +0100</pubDate>
+	    
+            <!-- A l'igual que la categoria del canal, especifica la categoria o categories a les que pertany l'ítem-->
+            <category >1DAM/mòduls/Llengautge de marques/M04/UF1</category>
+	    
+        </item>
+		
+    </channel>
+	
+</rss>
