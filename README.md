@@ -69,5 +69,6 @@ Enlace a la memoria: https://docs.google.com/document/d/18hLOPvpR4zYm5LsfI5RdQWR
 Enlace al video: https://drive.google.com/file/d/1ZWL6UKz1KPO7ClV_haBIkSNNkRD5ac8z/view?usp=drive_link
 
 Alguna imágen: 
+
 ![Modulo de listado de alumnos](https://github.com/alexgarciamartinez/Portfolio/blob/main/alumni.png)
 
