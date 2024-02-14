@@ -66,3 +66,7 @@
   
 
 <br/>  
+## ERP Alumni
+A continuación, enlace a mi repositorio GitLab (y de mis compañeros) de este proyecto: https://gitlab.com/grup-3-erp-alumni/erp-alumni.git
+
+Este es un proyecto hecho con Java y Spring, el cual consiste en tener un registro de ex-alumnos del centro y tener un contacto con ellos, y también datos actuales, los cuales algunos se pueden representar mediante gráficos.
