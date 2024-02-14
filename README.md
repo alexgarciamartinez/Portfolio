@@ -65,4 +65,5 @@ A continuación, enlace a mi repositorio GitLab (y de mis compañeros) de este p
 Este es un proyecto hecho con Java y Spring, el cual consiste en tener un registro de ex-alumnos del centro y tener un contacto con ellos, y también datos actuales, los cuales algunos se pueden representar mediante gráficos.
 
 Enlace a la memoria: https://docs.google.com/document/d/18hLOPvpR4zYm5LsfI5RdQWR8aGId_Ubz0M2Rs4myiCg/edit
+
 Enlace al video: https://drive.google.com/file/d/1ZWL6UKz1KPO7ClV_haBIkSNNkRD5ac8z/view?usp=drive_link
